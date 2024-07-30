@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 0  -->
+  <question type="category">
+    <category>
+      <text>$course$/top/Default for PLAY_MSAYER_2023-24</text>
+    </category>
+    <info format="moodle_auto_format">
+      <text>The default category for questions shared in context 'PLAY_MSAYER_2023-24'.</text>
+    </info>
+    <idnumber></idnumber>
+  </question>
+
+<!-- question: 397386  -->
+  <question type="essay">
+    <name>
+      <text>Essay Q</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">ghjkl;</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>10</responsefieldlines>
+    <minwordlimit></minwordlimit>
+    <maxwordlimit></maxwordlimit>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <maxbytes>0</maxbytes>
+    <filetypeslist></filetypeslist>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+  </question>
+
+<!-- question: 553796  -->
+  <question type="essay">
+    <name>
+      <text>tiintest</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">wert</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>10</responsefieldlines>
+    <minwordlimit></minwordlimit>
+    <maxwordlimit></maxwordlimit>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <maxbytes>0</maxbytes>
+    <filetypeslist></filetypeslist>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+  </question>
+
+<!-- question: 966379  -->
+  <question type="multichoice">
+    <name>
+      <text>MCQ</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">This is the question text area.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">This is an area for general feedback</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>123</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">This is choice 1</p>]]></text>
+      <feedback format="html">
+        <text><![CDATA[<p dir="ltr" style="text-align: left;">This is feedback relating to choice one, it could be used to explain the context etc.</p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">This is choice 2</p>]]></text>
+      <feedback format="html">
+        <text><![CDATA[<p dir="ltr" style="text-align: left;">This is feedback relating to choice two, it could be used to explain the context etc.<br></p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">This is choice 3</p>]]></text>
+      <feedback format="html">
+        <text><![CDATA[<p dir="ltr" style="text-align: left;">This is feedback relating to choice three, it could be used to explain the context etc.<br></p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">This is choice 4</p>]]></text>
+      <feedback format="html">
+        <text><![CDATA[<p dir="ltr" style="text-align: left;">This is feedback relating to choice four.</p>]]></text>
+      </feedback>
+    </answer>
+    <hint format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">Try another answer.</p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">Try another answer again.</p>]]></text>
+    </hint>
+  </question>
+
+</quiz>
